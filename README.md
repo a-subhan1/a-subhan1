@@ -10,6 +10,5 @@ Electro Mart - An online shopping platform with a sleek, user-friendly design bu
 Inventory Management System - Developed using Laravel, MySQL, and jQuery, this system includes stock and customer record management functionalities.
 📫 Get in Touch
 Email: [subhannagori226@gmail.com]
-LinkedIn: [Your LinkedIn Profile URL]
-Portfolio: []
+LinkedIn: [www.linkedin.com/in/abdul-subhan226]
 Feel free to explore my repositories to see my work! I'm always open to new projects, collaborations, and discussions.
